@@ -1,0 +1,36 @@
+{
+  "name": "contextshield",
+  "version": "1.0.0",
+  "description": "Zero-Trust Dynamic MCP Router, AST Security Firewall, and Token Optimizer for Claude, Cursor, and Windsurf",
+  "main": "bin/contextshield.js",
+  "bin": {
+    "contextshield": "./bin/contextshield.js"
+  },
+  "scripts": {
+    "start": "node ./bin/contextshield.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "cursor",
+    "claude",
+    "windsurf",
+    "context-window",
+    "token-optimization",
+    "security-firewall",
+    "ast-guard"
+  ],
+  "author": "Neon Innovation Lab <hello@neoninnovationlab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neon-innovation-lab/contextshield.git"
+  },
+  "homepage": "https://neoninnovationlab.com/solutions/cursor-40-tool-limit",
+  "bugs": {
+    "url": "https://github.com/neon-innovation-lab/contextshield/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
