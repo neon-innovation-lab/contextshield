@@ -27,7 +27,7 @@ metadata:
   title: "ContextShield Dynamic MCP Router & Security Firewall"
   description: "Zero-trust dynamic MCP router and AST security firewall that eliminates the Cursor 40-tool limit and reduces context bloat by 85%."
   homepage: "https://neoninnovationlab.com/solutions/cursor-40-tool-limit"
-  repository: "https://github.com/neon-innovation-lab/contextshield"
+  repository: "https://github.com/Ansarii/neoninnovationlab"
   license: "MIT"
   tags:
     - mcp

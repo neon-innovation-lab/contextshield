@@ -24,11 +24,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neon-innovation-lab/contextshield.git"
+    "url": "git+https://github.com/Ansarii/neoninnovationlab.git"
   },
   "homepage": "https://neoninnovationlab.com/solutions/cursor-40-tool-limit",
   "bugs": {
-    "url": "https://github.com/neon-innovation-lab/contextshield/issues"
+    "url": "https://github.com/Ansarii/neoninnovationlab/issues"
   },
   "engines": {
     "node": ">=18.0.0"

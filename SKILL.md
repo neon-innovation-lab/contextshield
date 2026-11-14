@@ -29,7 +29,7 @@ Cursor configuration (`~/.cursor/mcp.json`):
 Connect directly to Neon Innovation Lab's hosted gateway:
 - **Endpoint:** `https://neoninnovationlab.com/api/mcp-gateway`
 - **Live Playground:** `https://neoninnovationlab.com/tools/mcp-gateway-hub`
-- **Tools Exposed:** `inspect_tool_call_security`, `redact_pii_dlp`, `proxy_secure_tool_call`, `get_gateway_status`
+- **Tools Exposed:** `inspect_tool_call_security`, `redact_pii_dlp`, `proxy_secure_tool_call`, `get_gateway_status`, `create_paypal_checkout_order`, `capture_paypal_order_status`
 
 ## 3. Production Upgrades (Direct PayPal - Zero Subscription Lock-In)
 - **Lifetime Zero-Trust Gateway License ($99):** `https://neoninnovationlab.com/checkout?item=mcp_gateway`
